@@ -1,0 +1,49 @@
+h1 {
+  color: #18314F;font-family: 'Coiny', cursive;
+}
+h1:hover{color: #DB5461; font-size: 50px}
+header {
+  display: flex;
+  background-color: #8BBEB2;
+  padding:20px}
+
+iframe {display:flex; justify-content: center;}
+
+main {
+  display:flex;
+justify-content: center;}
+
+aside {height: 1200px;
+width: 400px;
+background-color: #384E77;
+margin-top: 50px;color:white}
+
+nav {background-color: #F1EDEE}
+
+ul {height: 50px;
+display:flex; justify-content:around;list-style-type: none; align-items: center}
+li {height: 50px;
+width: 50px;
+padding: 30px }
+
+p {font: normal 18px serif;
+  width:700px;}
+.ball {width:300px;
+legnth:150px}
+
+.ptgraph {width:600px;
+legnth:600px}
+
+body {
+  border: 1px
+  solid gray;
+  margin:50px;
+padding: 50px;
+background-color: #F1EDEE;}
+section {
+  margin:50px;
+  padding:20px;
+width: 500px;}
+
+.bg-court {background-image: url('../imgs/court.jpg');
+}
